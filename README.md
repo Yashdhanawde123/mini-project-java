@@ -1,2 +1,2 @@
 # mini-project-java
-<h1>MEHUL</h1>
+<h6>MEHUL</h6>
